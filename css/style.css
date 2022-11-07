@@ -1,4 +1,12 @@
-.remove-numbers{
-    display: none;
-    color: white;
+.numbers {
+	display: flex;
+	justify-content: space-around;
+}
+
+.number {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20em;
+	
 }
